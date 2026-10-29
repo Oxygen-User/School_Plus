@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_de
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 5e100a096de2ec345a14f05a11435610, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16185786392576
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16205105356800
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83838022475776
+    m_Localized: SetLocaleEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83865239314432
+    m_Localized: ChangeLocale_en, Assembly-CSharp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83743193456640
+    m_Localized: SetLocaleTR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83966082965504
+    m_Localized: ChangeLocale_tr, Assembly-CSharp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88660691935232
+    m_Localized: ChangeLocale_tr, Assembly-CSharp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88660691935233
+    m_Localized: SetLocaleTR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88408215805953
+    m_Localized: SetLocaleEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88408215805952
+    m_Localized: ChangeLocale_en, Assembly-CSharp
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

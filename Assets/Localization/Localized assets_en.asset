@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: Localized assets_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.AssetTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 844c6915350380e4bbeb0480e7915e2f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 22894584029184
+    m_Localized: 'd5c806829b4ac9b4b8e06e8eed1b8d61[Flag_of_United_Kingdom-4096x2048_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31898483843072
+    m_Localized: 'fe629c95637f173488c96c493306a180[Flag_of_Germany-4096x2453_0]'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

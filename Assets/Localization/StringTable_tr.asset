@@ -26,32 +26,48 @@ MonoBehaviour:
     m_Localized: Ayarlar
     m_Metadata:
       m_Items: []
-  - m_Id: 83743193456640
-    m_Localized: SetLocaleDE
+  - m_Id: 706706364194816
+    m_Localized: "M\xFCzik"
     m_Metadata:
       m_Items: []
-  - m_Id: 83838022475776
-    m_Localized: SetLocaleEN
+  - m_Id: 1045511998824448
+    m_Localized: Tepki
     m_Metadata:
       m_Items: []
-  - m_Id: 83865239314432
-    m_Localized: ChangeLocale_en, Assembly-CSharp
+  - m_Id: 1045846486179840
+    m_Localized: "Ba\u015Flamadan \xF6nce bilmen gerekenler:"
     m_Metadata:
       m_Items: []
-  - m_Id: 88408215805952
-    m_Localized: ChangeLocale_en, Assembly-CSharp
+  - m_Id: 1046188066103296
+    m_Localized: "- T\xFCm canl\u0131larda tepkinin olu\u015Fum s\xFCreci benzerdir:\r\n\r\nUyaran --> Uyar\u0131n\u0131n al\u0131m\u0131 ve iletimi --> De\u011Ferlendirme ve yorumlama\r\n--> Tepki\r\n\r\n**Bitkiler elektriksel, kimyasal ve \xE7e\u015Fitli hormonlar\u0131n birikmesi sonucu cevap olu\u015Futur\r\n\r\n**Hayvanlarda ise merkezi sinir sistemi ve hormonlar bu s\xFCre\xE7te etkilidir. Bu s\xFCre\xE7 hayvan geli\u015Ftik\xE7e daha komplike hale gelir.\r\n\r\n--Resept\xF6r: Protein yap\u0131l\u0131 alg\u0131lay\u0131c\u0131 molek\xFCl.\r\n\r\nHormon:\r\n--Az miktarda salg\u0131lanan, hedef organdaki rsept\xF6re uyum sa\u011Flamas\u0131 sonucu \xE7al\u0131\u015Fan kimyasal habercidir.\r\n--Hormonun etkili olmas\u0131 i\xE7in e\u015Fik de\u011Fere ula\u015Fmas\u0131 gereklidir. "
     m_Metadata:
       m_Items: []
-  - m_Id: 88408215805953
-    m_Localized: SetLocaleEN
+  - m_Id: 1046488256634880
+    m_Localized: Bitklerde Tepki
     m_Metadata:
       m_Items: []
-  - m_Id: 88660691935233
-    m_Localized: SetLocaleDE
+  - m_Id: 1046649879945216
+    m_Localized: Hayvanlarda Tepki
     m_Metadata:
       m_Items: []
-  - m_Id: 88660691935232
-    m_Localized: ChangeLocale_de, Assembly-CSharp
+  - m_Id: 1046753974181888
+    m_Localized: "Duyu Organlar\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047039845359616
+    m_Localized: Koleoptil -->
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047209861472256
+    m_Localized: "Oksin normalde yan k\xF6klerin olu\u015Fumunu sa\u011Flar ve yan tomurcuklar\u0131n olu\u015Fumunu engeller."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047377742684160
+    m_Localized: "Oksin eksikli\u011Fi yaprak ve meyve d\xF6k\xFClmesine neden olur. Oksin fazlal\u0131\u011F\u0131 ise b\xFCy\xFCmeyi yava\u015Flat\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049302508789760
+    m_Localized: 1) Oksin
     m_Metadata:
       m_Items: []
   references:

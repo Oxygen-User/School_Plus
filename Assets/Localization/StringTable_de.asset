@@ -26,36 +26,48 @@ MonoBehaviour:
     m_Localized: Einstellungen
     m_Metadata:
       m_Items: []
-  - m_Id: 83838022475776
-    m_Localized: SetLocaleEN
+  - m_Id: 706706364194816
+    m_Localized: Musik
     m_Metadata:
       m_Items: []
-  - m_Id: 83865239314432
-    m_Localized: ChangeLocale_en, Assembly-CSharp
+  - m_Id: 1045511998824448
+    m_Localized: Reaktion
     m_Metadata:
       m_Items: []
-  - m_Id: 83743193456640
-    m_Localized: SetLocaleTR
+  - m_Id: 1045846486179840
+    m_Localized: 'Was du wissen solltest, bevor du beginnst:'
     m_Metadata:
       m_Items: []
-  - m_Id: 83966082965504
-    m_Localized: ChangeLocale_tr, Assembly-CSharp
+  - m_Id: 1046188066103296
+    m_Localized: "- Bei allen Lebewesen ist der Prozess der Reaktionsentstehung \xE4hnlich:\r\n\r\nReiz --> Aufnahme und Weiterleitung des Reizes --> Auswertung und Interpretation\r\n--> Reaktion\r\n\r\n**Pflanzen reagieren auf der Grundlage elektrischer und chemischer Signale sowie durch die Ansammlung verschiedener Hormone.\r\n\r\n**Bei Tieren sind das zentrale Nervensystem und Hormone an diesem Prozess beteiligt. Dieser Prozess wird mit zunehmender Entwicklung des Tieres komplexer.\r\n\r\n--Rezeptor: Ein aus Proteinen bestehendes, wahrnehmendes Molek\xFCl.\r\n\r\nHormon:\r\n--Ein chemischer Botenstoff, der in geringen Mengen ausgesch\xFCttet wird und seine Wirkung entfaltet, indem er an einen entsprechenden Rezeptor im Zielorgan bindet.\r\n--Damit ein Hormon wirksam werden kann, muss ein bestimmter Schwellenwert erreicht werden."
     m_Metadata:
       m_Items: []
-  - m_Id: 88660691935232
-    m_Localized: ChangeLocale_tr, Assembly-CSharp
+  - m_Id: 1046488256634880
+    m_Localized: Reaktion bei Pflanzen
     m_Metadata:
       m_Items: []
-  - m_Id: 88660691935233
-    m_Localized: SetLocaleTR
+  - m_Id: 1046649879945216
+    m_Localized: Reaktion bei Tieren
     m_Metadata:
       m_Items: []
-  - m_Id: 88408215805953
-    m_Localized: SetLocaleEN
+  - m_Id: 1046753974181888
+    m_Localized: Sinnesorgane
     m_Metadata:
       m_Items: []
-  - m_Id: 88408215805952
-    m_Localized: ChangeLocale_en, Assembly-CSharp
+  - m_Id: 1047039845359616
+    m_Localized: Koleoptile -->
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047209861472256
+    m_Localized: "Auxin f\xF6rdert normalerweise die Bildung von Seitenwurzeln und hemmt die Entstehung von Seitenknospen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047377742684160
+    m_Localized: "Ein Mangel an Auxin f\xFChrt zum Abfallen von Bl\xE4ttern und Fr\xFCchten. Ein \xDCberschuss an Auxin hingegen verlangsamt das Wachstum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049302508789760
+    m_Localized: 1) Auxin
     m_Metadata:
       m_Items: []
   references:

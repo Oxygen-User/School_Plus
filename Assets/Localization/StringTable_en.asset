@@ -26,36 +26,74 @@ MonoBehaviour:
     m_Localized: Settings
     m_Metadata:
       m_Items: []
-  - m_Id: 83743193456640
-    m_Localized: SetLocaleDE
+  - m_Id: 706706364194816
+    m_Localized: Music
     m_Metadata:
       m_Items: []
-  - m_Id: 83838022475776
-    m_Localized: SetLocaleTR
+  - m_Id: 1045511998824448
+    m_Localized: Reaction
     m_Metadata:
       m_Items: []
-  - m_Id: 83865239314432
-    m_Localized: ChangeLocale_tr, Assembly-CSharp
+  - m_Id: 1045846486179840
+    m_Localized: 'Things you should know before you begin:'
     m_Metadata:
       m_Items: []
-  - m_Id: 83966082965504
-    m_Localized: ChangeLocale_de, Assembly-CSharp
+  - m_Id: 1046188066103296
+    m_Localized: '- The process by which a response is generated is similar in all living organisms:
+
+
+
+      Stimulus --> Reception and transmission of the stimulus --> Evaluation and interpretation
+
+      --> Response
+
+
+
+      **Plants generate responses through electrical signals, chemical signals, and the accumulation of various hormones.
+
+
+
+      **In animals, the central nervous system and hormones play a role in this process. This process becomes more complex as an animal develops.
+
+
+
+      --Receptor: A sensory molecule with a protein structure.
+
+
+
+      Hormone:
+
+      --A chemical messenger secreted in small quantities that functions by binding to a specific receptor on a target organ.
+
+      --For a hormone to be effective, it must reach a threshold value.'
     m_Metadata:
       m_Items: []
-  - m_Id: 88408215805952
-    m_Localized: ChangeLocale_tr, Assembly-CSharp
+  - m_Id: 1046488256634880
+    m_Localized: Response in Plants
     m_Metadata:
       m_Items: []
-  - m_Id: 88408215805953
-    m_Localized: SetLocaleTR
+  - m_Id: 1046649879945216
+    m_Localized: Response in Animals
     m_Metadata:
       m_Items: []
-  - m_Id: 88660691935232
-    m_Localized: ChangeLocale_de, Assembly-CSharp
+  - m_Id: 1046753974181888
+    m_Localized: Sense Organs
     m_Metadata:
       m_Items: []
-  - m_Id: 88660691935233
-    m_Localized: SetLocaleDE
+  - m_Id: 1047039845359616
+    m_Localized: Coleoptile -->
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047209861472256
+    m_Localized: Auxin normally promotes the formation of lateral roots and inhibits the development of lateral buds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047377742684160
+    m_Localized: A deficiency of auxin causes leaf and fruit drop. An excess of auxin, on the other hand, slows down growth.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049302508789760
+    m_Localized: 1) Auxin
     m_Metadata:
       m_Items: []
   references:

@@ -23,36 +23,48 @@ MonoBehaviour:
     m_Key: MainMenu/Canvas/SettingsButton/Text (TMP)
     m_Metadata:
       m_Items: []
-  - m_Id: 83743193456640
-    m_Key: MainMenu/Canvas/Button_Language/Click_To_Dissapear/LanguageSelect/Button_Lang_3
+  - m_Id: 706706364194816
+    m_Key: MainMenu/Canvas/SettingsButton/ClickToHideSettings/Music Text
     m_Metadata:
       m_Items: []
-  - m_Id: 83838022475776
-    m_Key: MainMenu/Canvas/Button_Language/Click_To_Dissapear/LanguageSelect/Button_Lang_2
+  - m_Id: 1045511998824448
+    m_Key: MainMenu/StartMenuCanvas/Notebook/TepkiButon/TepkiText
     m_Metadata:
       m_Items: []
-  - m_Id: 83865239314432
-    m_Key: MainMenu/Canvas/Button_Language/Click_To_Dissapear/LanguageSelect/Button_Lang_2 1
+  - m_Id: 1045846486179840
+    m_Key: "MainMenu/TepkiCanvas/Ba\u015Flamadan\xD6nce"
     m_Metadata:
       m_Items: []
-  - m_Id: 83966082965504
-    m_Key: MainMenu/Canvas/Button_Language/Click_To_Dissapear/LanguageSelect/Button_Lang_3 1
+  - m_Id: 1046188066103296
+    m_Key: "MainMenu/TepkiCanvas/Ba\u015Flamadan\xD6nce/\u0130nfo"
     m_Metadata:
       m_Items: []
-  - m_Id: 88408215805952
-    m_Key: MainMenu/Canvas/Button_Language/Click_To_Dissapear/LanguageSelect/Button_Lang_2 2
+  - m_Id: 1046488256634880
+    m_Key: MainMenu/TepkiCanvas/BitklerdeTepki/Text (TMP)
     m_Metadata:
       m_Items: []
-  - m_Id: 88408215805953
-    m_Key: MainMenu/Canvas/Button_Language/Click_To_Dissapear/LanguageSelect/Button_Lang_2 3
+  - m_Id: 1046649879945216
+    m_Key: MainMenu/TepkiCanvas/HayvanlardaTepki/Text (TMP)
     m_Metadata:
       m_Items: []
-  - m_Id: 88660691935232
-    m_Key: MainMenu/Canvas/Button_Language/Click_To_Dissapear/LanguageSelect/Button_Lang_3 2
+  - m_Id: 1046753974181888
+    m_Key: "MainMenu/TepkiCanvas/DuyuOrganlar\u0131/Text (TMP)"
     m_Metadata:
       m_Items: []
-  - m_Id: 88660691935233
-    m_Key: MainMenu/Canvas/Button_Language/Click_To_Dissapear/LanguageSelect/Button_Lang_3 3
+  - m_Id: 1047039845359616
+    m_Key: "MainMenu/BitkilerdeTepki/Oksin/I\u015F\u0131\u011F\u0131nOksinDa\u011F\u0131l\u0131m\u0131naEtkisi/KoleoptilText"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047209861472256
+    m_Key: MainMenu/BitkilerdeTepki/Oksin/OksinNormalEtkisi/OksinNormal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047377742684160
+    m_Key: "MainMenu/BitkilerdeTepki/Oksin/OksinA\u015F\u0131r\u0131Etkisi /OksinNormal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049302508789760
+    m_Key: MainMenu/BitkilerdeTepki/Oksin
     m_Metadata:
       m_Items: []
   m_Metadata:

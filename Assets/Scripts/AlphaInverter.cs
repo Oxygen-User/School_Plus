@@ -12,6 +12,34 @@ public class AlphaInverter : MonoBehaviour
     [SerializeField] private Image targetImage4;
 
 
+    void Start()
+    {
+        float value = targetSlider.value; 
+        
+        
+        // Subtract the slider value from 1
+        float invertedAlpha = 1f - value;
+
+        // Get the current color, update only the alpha channel, and reassign it
+        Color newColor = targetImage.color;
+        newColor.a = invertedAlpha;
+        targetImage.color = newColor;
+        targetImage1.color = newColor;
+        targetImage2.color = newColor;
+        targetImage3.color = newColor;
+        targetImage4.color = newColor;
+
+        Debug.Log("ÇALIŞIYORÇALIŞIYORÇALIŞIYORÇALIŞIYORÇALIŞIYORÇALIŞIYORÇALIŞIYORÇALIŞIYORÇALIŞIYOR");
+
+        
+    }
+
+    void Update()
+    {
+        
+    }
+
+
 
     public void OnSliderValueChanged()
     {

@@ -70,6 +70,10 @@ MonoBehaviour:
     m_Localized: 1) Oksin
     m_Metadata:
       m_Items: []
+  - m_Id: 1062001514930176
+    m_Localized: Bitkilerde Hormonlar
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

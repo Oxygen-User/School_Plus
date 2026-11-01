@@ -761,7 +761,6 @@ GameObject:
   - component: {fileID: 117801900}
   - component: {fileID: 117801903}
   - component: {fileID: 117801902}
-  - component: {fileID: 117801901}
   m_Layer: 5
   m_Name: OksinHormon
   m_TagString: Untagged
@@ -789,24 +788,6 @@ RectTransform:
   m_AnchoredPosition: {x: 112.4, y: 0.0000016689}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &117801901
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 117801899}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc1bf04d496449f478ec91e45f98369e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  targetSlider: {fileID: 1581743005}
-  targetImage: {fileID: 117801902}
-  targetImage1: {fileID: 0}
-  targetImage2: {fileID: 0}
-  targetImage3: {fileID: 0}
-  targetImage4: {fileID: 0}
 --- !u!114 &117801902
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1018,10 +999,10 @@ RectTransform:
   m_LocalScale: {x: 0.82, y: 0.82, z: 0.82}
   m_ConstrainProportionsScale: 1
   m_Children:
-  - {fileID: 537573888}
   - {fileID: 883670762}
   - {fileID: 1305319386}
   - {fileID: 2097578698}
+  - {fileID: 537573888}
   m_Father: {fileID: 1297981818}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -1346,7 +1327,6 @@ GameObject:
   - component: {fileID: 415546612}
   - component: {fileID: 415546615}
   - component: {fileID: 415546614}
-  - component: {fileID: 415546613}
   m_Layer: 5
   m_Name: "OksinHormonSa\u011F (3)"
   m_TagString: Untagged
@@ -1373,24 +1353,6 @@ RectTransform:
   m_AnchoredPosition: {x: 143, y: -425}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &415546613
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 415546611}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc1bf04d496449f478ec91e45f98369e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  targetSlider: {fileID: 1581743005}
-  targetImage: {fileID: 415546614}
-  targetImage1: {fileID: 0}
-  targetImage2: {fileID: 0}
-  targetImage3: {fileID: 0}
-  targetImage4: {fileID: 0}
 --- !u!114 &415546614
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1857,7 +1819,6 @@ GameObject:
   - component: {fileID: 486466389}
   - component: {fileID: 486466392}
   - component: {fileID: 486466391}
-  - component: {fileID: 486466390}
   m_Layer: 5
   m_Name: "OksinHormonSa\u011F (4)"
   m_TagString: Untagged
@@ -1884,24 +1845,6 @@ RectTransform:
   m_AnchoredPosition: {x: 157, y: -672}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &486466390
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 486466388}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc1bf04d496449f478ec91e45f98369e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  targetSlider: {fileID: 1581743005}
-  targetImage: {fileID: 486466391}
-  targetImage1: {fileID: 0}
-  targetImage2: {fileID: 0}
-  targetImage3: {fileID: 0}
-  targetImage4: {fileID: 0}
 --- !u!114 &486466391
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1951,6 +1894,7 @@ GameObject:
   - component: {fileID: 507361482}
   - component: {fileID: 507361484}
   - component: {fileID: 507361483}
+  - component: {fileID: 507361485}
   m_Layer: 5
   m_Name: BitkilerdeHormonlar
   m_TagString: Untagged
@@ -2078,6 +2022,44 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 507361481}
   m_CullTransparentMesh: 1
+--- !u!114 &507361485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 507361481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69beb381e244f92449b8c4cf954630e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.PropertyVariants.GameObjectLocalizer
+  m_TrackedObjects:
+  - rid: 7093878630198280300
+  references:
+    version: 2
+    RefIds:
+    - rid: 7093878630198280300
+      type: {class: TrackedUGuiGraphic, ns: UnityEngine.Localization.PropertyVariants.TrackedObjects, asm: Unity.Localization}
+      data:
+        m_Target: {fileID: 507361483}
+        m_TrackedProperties:
+          items:
+          - rid: 7093878630198280301
+        m_UpdateType: 0
+    - rid: 7093878630198280301
+      type: {class: LocalizedStringProperty, ns: UnityEngine.Localization.PropertyVariants.TrackedProperties, asm: Unity.Localization}
+      data:
+        m_Localized:
+          m_TableReference:
+            m_TableCollectionName: GUID:5e100a096de2ec345a14f05a11435610
+          m_TableEntryReference:
+            m_KeyId: 1062001514930176
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_PropertyPath: m_text
 --- !u!1 &512527705
 GameObject:
   m_ObjectHideFlags: 0
@@ -2164,7 +2146,6 @@ GameObject:
   - component: {fileID: 532305069}
   - component: {fileID: 532305072}
   - component: {fileID: 532305071}
-  - component: {fileID: 532305070}
   m_Layer: 5
   m_Name: "OksinHormonSa\u011F (1)"
   m_TagString: Untagged
@@ -2191,24 +2172,6 @@ RectTransform:
   m_AnchoredPosition: {x: 83, y: -116}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &532305070
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 532305068}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc1bf04d496449f478ec91e45f98369e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  targetSlider: {fileID: 1581743005}
-  targetImage: {fileID: 532305071}
-  targetImage1: {fileID: 0}
-  targetImage2: {fileID: 0}
-  targetImage3: {fileID: 0}
-  targetImage4: {fileID: 0}
 --- !u!114 &532305071
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2311,11 +2274,11 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 0
+  m_Value: 1
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1305319388}
+      - m_Target: {fileID: 883670765}
         m_TargetAssemblyTypeName: UnityEngine.CanvasRenderer, UnityEngine
         m_MethodName: SetAlpha
         m_Mode: 0
@@ -2326,7 +2289,7 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 1
+        m_CallState: 2
       - m_Target: {fileID: 883670763}
         m_TargetAssemblyTypeName: AlphaInverter, Assembly-CSharp
         m_MethodName: OnSliderValueChanged
@@ -2850,10 +2813,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AlphaInverter
   targetSlider: {fileID: 1413958080}
   targetImage: {fileID: 604430744}
-  targetImage1: {fileID: 0}
-  targetImage2: {fileID: 0}
-  targetImage3: {fileID: 0}
-  targetImage4: {fileID: 0}
+  targetImage1: {fileID: 604430744}
+  targetImage2: {fileID: 604430744}
+  targetImage3: {fileID: 604430744}
+  targetImage4: {fileID: 604430744}
 --- !u!1 &632010557
 GameObject:
   m_ObjectHideFlags: 0
@@ -3524,7 +3487,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &700670661
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4600,7 +4563,7 @@ GameObject:
   - component: {fileID: 883670764}
   - component: {fileID: 883670763}
   m_Layer: 5
-  m_Name: OksinEtkiAz
+  m_Name: "OksinFazlal\u0131\u011F\u0131"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4638,11 +4601,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AlphaInverter
   targetSlider: {fileID: 537573887}
-  targetImage: {fileID: 883670764}
-  targetImage1: {fileID: 0}
-  targetImage2: {fileID: 0}
-  targetImage3: {fileID: 0}
-  targetImage4: {fileID: 0}
+  targetImage: {fileID: 1305319387}
+  targetImage1: {fileID: 1305319387}
+  targetImage2: {fileID: 1305319387}
+  targetImage3: {fileID: 1305319387}
+  targetImage4: {fileID: 1305319387}
 --- !u!114 &883670764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6429,7 +6392,7 @@ GameObject:
   - component: {fileID: 1305319388}
   - component: {fileID: 1305319387}
   m_Layer: 5
-  m_Name: OksinEtki
+  m_Name: "OksinEksikli\u011Fi"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6980,7 +6943,7 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 0
+  m_Value: 1
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -6995,7 +6958,7 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 1
+        m_CallState: 2
       - m_Target: {fileID: 604430746}
         m_TargetAssemblyTypeName: AlphaInverter, Assembly-CSharp
         m_MethodName: OnSliderValueChanged
@@ -7545,7 +7508,7 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 0.5
+  m_Value: 1
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -7777,7 +7740,6 @@ GameObject:
   - component: {fileID: 1644025442}
   - component: {fileID: 1644025445}
   - component: {fileID: 1644025444}
-  - component: {fileID: 1644025443}
   m_Layer: 5
   m_Name: "OksinHormonSa\u011F (2)"
   m_TagString: Untagged
@@ -7804,24 +7766,6 @@ RectTransform:
   m_AnchoredPosition: {x: 126, y: -254}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1644025443
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1644025441}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc1bf04d496449f478ec91e45f98369e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  targetSlider: {fileID: 1581743005}
-  targetImage: {fileID: 1644025444}
-  targetImage1: {fileID: 0}
-  targetImage2: {fileID: 0}
-  targetImage3: {fileID: 0}
-  targetImage4: {fileID: 0}
 --- !u!114 &1644025444
 MonoBehaviour:
   m_ObjectHideFlags: 0

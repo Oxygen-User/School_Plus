@@ -67,6 +67,10 @@ MonoBehaviour:
     m_Key: MainMenu/BitkilerdeTepki/Oksin
     m_Metadata:
       m_Items: []
+  - m_Id: 1062001514930176
+    m_Key: MainMenu/BitkilerdeTepki/BitkilerdeHormonlar
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

@@ -51,6 +51,7 @@ Download this whole repository and view the project altogether on unity editor.
 <img width="791" height="461" alt="Screenshot 2026-11-01 150704" src="https://github.com/user-attachments/assets/6e48739c-9b86-404f-b8d4-56267c017618" />
 <img width="803" height="465" alt="Screenshot 2026-11-01 150712" src="https://github.com/user-attachments/assets/a75c39d2-63b6-4bcb-90c5-a032c12b5bb8" />
 <img width="907" height="532" alt="Screenshot 2026-10-31 124857" src="https://github.com/user-attachments/assets/99445702-5021-4793-a0f9-5e6f255d4292" />
-
+<img width="798" height="460" alt="Screenshot 2026-11-01 225952" src="https://github.com/user-attachments/assets/e5959c68-0c3c-449b-a1d7-819191b56b70" />
+<img width="791" height="460" alt="Screenshot 2026-11-01 225947" src="https://github.com/user-attachments/assets/e478c2e8-66d2-4785-8c33-177be119684b" />
 
 

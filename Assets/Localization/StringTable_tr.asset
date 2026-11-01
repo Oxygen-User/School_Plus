@@ -47,11 +47,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1046649879945216
-    m_Localized: Hayvanlarda Tepki
+    m_Localized: '-'
     m_Metadata:
       m_Items: []
   - m_Id: 1046753974181888
-    m_Localized: "Duyu Organlar\u0131"
+    m_Localized: '-'
     m_Metadata:
       m_Items: []
   - m_Id: 1047039845359616
@@ -72,6 +72,18 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1062001514930176
     m_Localized: Bitkilerde Hormonlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149994753875968
+    m_Localized: "D\xF6rtgenler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1154650833969152
+    m_Localized: "D\xF6rtgenler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162966196838400
+    m_Localized: "D\xF6rtgenler"
     m_Metadata:
       m_Items: []
   references:

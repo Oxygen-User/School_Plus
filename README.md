@@ -24,7 +24,7 @@ There are 2 ways to open this project:
 
 ### 1
 
-You can open the project from your web browser using this [Link]() (Press ESC to stop the project when opened this way)
+You can open the project from your web browser using this [Link](https://play.unity.com/en/games/dc65853a-deb1-4e95-9256-242096e89f6f/school-plus) (Press ESC to stop the project when opened this way)
 
 ### 2
 
